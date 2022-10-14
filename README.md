@@ -4,7 +4,7 @@
 
 > Codar Me - Maratona Starter
 
-Projeto construído no evento Next Level Week da Rocketseat.
+Projeto construído no evento na Maratona Starter.
 
 [🔗 Clique aqui para acessar](https://hiagocarvalhoo.github.io/landing-page-barbearia/)
 
